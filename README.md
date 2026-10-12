@@ -1,3 +1,14 @@
+> **Archived: development continues in [giorgosg/magnes](https://github.com/giorgosg/magnes).**
+>
+> The Elm UI and all 91 commits of its history have been imported into the combined
+> repository as the ordinary `webui/` directory. The migration is tracked in
+> [Magnes PR #93](https://github.com/giorgosg/magnes/pull/93), which is awaiting merge
+> at the time of archival. Future UI development and issues belong in that repository.
+>
+> This repository is retained as a historical archive. The README below describes the
+> former standalone project; use the combined repository for current build and
+> development instructions.
+
 # Magnes
 
 An alternative web UI for [bitmagnet](https://bitmagnet.io), written in
